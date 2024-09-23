@@ -9,9 +9,9 @@ build-backend = "scikit_build_core.build"
 
 
 [project]
-name = "drjit"
+name = "throwaway8213fork"
 dynamic = ["version", "readme"]
-description = "Dr.Jit: A Just-In-Time Compiler for Differentiable Rendering"
+description = "Throwaway"
 dependencies = [
   "typing_extensions;python_version<\"3.11\""
 ]
@@ -27,7 +27,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mitsuba-renderer/drjit"
+Homepage = "https://github.com/njroussel/drjit-fork"
 
 
 [tool.scikit-build]
