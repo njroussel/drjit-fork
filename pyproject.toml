@@ -9,7 +9,7 @@ build-backend = "scikit_build_core.build"
 
 
 [project]
-name = "throwaway8213fork"
+name = "drjit"
 dynamic = ["version", "readme"]
 description = "Throwaway"
 dependencies = [
