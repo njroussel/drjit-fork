@@ -58,7 +58,7 @@ test-command = "python -c \"import drjit\""
 
 # Needed for full C++17 support
 [tool.cibuildwheel.macos.environment]
-MACOSX_DEPLOYMENT_TARGET = "10.4"
+MACOSX_DEPLOYMENT_TARGET = "10.14"
 
 [tool.cibuildwheel.linux]
 before-all = "yum install -y libatomic"
